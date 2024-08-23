@@ -1,0 +1,32 @@
+Hello, we require the development of an Android App that can use the camera to do:
+
+1. Real-time Object Detection and OCR (Recognizing Text/Numbers) [LOW ACCURACY]
+
+2. Can Record Video and then process it for Object/OCR Detection [MEDIUM ACCURACY]
+
+3. Can Record Video and Upload to Server for Obj/OCR Detection for multiple users [HIGH ACCURACY]
+
+We can provide many sample videos of what the user will be viewing/recording and what objects/text to detect and what to teach/learn.
+
+Please provide the APIs for the AI and UI you will be using/researching.
+
+Thank you for reviewing our job post.
+
+
+users supply their own videos and use angles suggested by the app, hopefully the AI can help them line it up good as they can
+
+
+the example we sent is incomplete, thats why we are hiring new
+
+how applicants for this job respond to the information we provide is how we decide who to hire.
+
+
+
+people video slot machines inside a casino and our AI app recognizes the reels/symbols/amounts
+
+sample input: https://youtu.be/3n0breDdXzE
+
+
+
+here is an example of the detection:
+https://www.dropbox.com/scl/fi/hp0eiockvpjl8c26vr7s2/detect_result1694703487588.mp4?rlkey=wafth1yiesxjz3bfgebhptyuf&dl=0
